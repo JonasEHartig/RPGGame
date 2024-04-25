@@ -9,7 +9,7 @@ The game will continue when the player starts the program by running:
 newStory.Start();
 
 The player will be promted to make a decision, that will have effect on his stats, when the code gets to:
-Valg();
+Valg1(); and Valg2();
 
 And the player will finally be able to use his stats in combat when the code gets to:
 SparJanik()
