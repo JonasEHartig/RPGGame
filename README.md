@@ -1,10 +1,10 @@
-#RPG Game
+# RPG Game
 
 This is a console-based RPG Game made in c# using .net.
 In the game the player plays as a character Henry who has different attributes and skills that can be used throughout the game. 
 The player will be enganged in combat and will have to make decisions based on his "Henry's" attributes.
 
-###Structure
+### Structure
 The game will continue when the player starts the program by running:
 newStory.Start();
 
